@@ -15,5 +15,5 @@ The code contained here is utilized to create simulations of existing exoplaneta
 This code is intended to be a showcase of work done, and requires several other customized Makefiles/downloaded libraries to run that are intentionally not provided here. 
 
 ## Acknowledgement
-- This work would not be possible without the continued mentorship of Dr. Seth Jacobson and the Planetary Makerspae Lab at Michigan State University.
+- This work would not be possible without the continued mentorship of Dr. Seth Jacobson and the Planetary Makerspace Lab at Michigan State University.
 - In addition, this work was initially funded by NSF Grant #2349002 and the ACRES (Advanced Computational Research Experience for Students) REU at Michigan State University, which I participated in during Summer 2023. Many thanks to Dr. Brian O'Shea, Dr. Danny Caballero, Dr. Mahmoud Parvizi, Carolyn Wendeln, and Ishika Ghosh for their mentorship, as well as to Michigan State University's ICER (Institute for Cyber-Enabled Research) for their support and continued usage of the HPCC (High Powered Computing Center) that powered this work.
